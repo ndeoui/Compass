@@ -1,6 +1,6 @@
 <div align="center">
-  <img src="https://image.noelshack.com/fichiers/2026/39/6/1790433869-appicon.png" alt="Logo Cahka" width="128"/>
-  <h1>Cahka</h1>
+  <img src="https://image.noelshack.com/fichiers/2026/39/6/1790433869-appicon.png" alt="Logo Compass" width="128"/>
+  <h1>Compass</h1>
 </div>
 
 # 🧭 Compass - L'équivalent de "Everything" pour Mac
