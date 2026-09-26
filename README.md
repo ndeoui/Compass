@@ -1,34 +1,36 @@
 <div align="center">
-  <img src="https://image.noelshack.com/fichiers/2026/39/6/1790433869-appicon.png" alt="Logo Compass" width="128"/>
+  <img src="[https://image.noelshack.com/fichiers/VOTRE_LIEN_ICI_appicon.png](https://image.noelshack.com/fichiers/2026/39/6/1790433869-appicon.png)" alt="Logo Compass" width="128"/>
   <h1>Compass</h1>
 </div>
 
-# 🧭 Compass - L'équivalent de "Everything" pour Mac
+Compass est une alternative macOS au célèbre logiciel "Everything" de Windows. C'est un moteur de recherche ultra-rapide qui permet de retrouver n'importe quel fichier ou dossier sur votre Mac de manière instantanée.
 
-Salut ! 👋 Bienvenue sur le dépôt de **Compass**.
+## Fonctionnalités
 
-Si vous avez déjà utilisé un PC sous Windows, vous connaissez peut-être le logiciel "Everything" qui permet de retrouver n'importe quel fichier instantanément. Sur Mac, je voulais exactement la même chose pour chercher mes fichiers à la vitesse de la lumière. 
+* Recherche en temps réel sur l'intégralité de vos disques et dossiers.
+* Interface minimaliste et réactive pour un gain de temps maximal au quotidien.
+* Ouverture directe des fichiers ou de leur emplacement d'origine directement depuis les résultats de recherche.
 
-**Petite précision importante :** Je n'ai pas écrit une seule ligne de code moi-même, **j'ai absolument tout fait avec l'IA !** 🤖
-À la base, j'ai fait ça dans mon coin pour me simplifier la vie au quotidien car je ne trouvais pas d'alternative gratuite et simple qui me convenait sur Mac. Mais comme l'outil marche super bien pour moi, je me suis dit que ce serait bête de ne pas le partager. Donc c'est cadeau, servez-vous ! 🎁
+## Installation
 
-## 📥 Comment l'installer sur votre Mac ?
+Compass est compatible uniquement avec macOS.
 
-1. Allez dans l'onglet **Releases** (sur la droite de la page).
-2. Cliquez sur la toute dernière version disponible.
-3. Téléchargez le fichier (normalement un `.dmg` ou un `.app`).
-4. Ouvrez-le, glissez Compass dans votre dossier **Applications**, et c'est parti !
+| Fichier | Description |
+|---------|-------------|
+| `Compass.zip` | Application macOS (Compatible Apple Silicon & Intel). |
 
-## ⚡ C'est quoi les fonctionnalités ?
+1. Téléchargez la dernière version dans l'onglet [Releases](https://github.com/ndeoui/Compass/releases).
+2. Décompressez l'archive téléchargée.
+3. Déplacez le fichier `Compass.app` dans votre dossier **Applications**.
 
-* **Recherche instantanée :** Tapez le nom d'un fichier et il apparaît (fini de galérer avec la recherche basique du Mac).
-* **[Ajoute une autre fonctionnalité ici, ex: Très léger et ne consomme pas de batterie]**
-* **Nouveau dans la dernière version :** [J'ai demandé à l'IA d'ajouter un mode sombre / un raccourci clavier...]
+## Fonctionnement technique
 
-## 🐛 Vous avez un souci ou une idée ?
+L'application est légère, autonome, et pensée pour ne pas ralentir votre machine. Contrairement à la recherche classique du Mac, Compass est conçu pour la vitesse brute :
 
-Vu que c'est l'IA qui a pondu le code sous mes instructions et que je l'utilise juste pour mon usage perso, il y a sûrement des petits trucs à peaufiner. 😅
+* **Recherche optimisée** : parcours et affichage des résultats en une fraction de seconde dès que vous tapez au clavier.
+* **Intégration macOS** : utilise les ressources natives du système pour trouver vos fichiers sans nécessiter de longues périodes d'indexation en arrière-plan.
 
-Si un truc bugge chez vous, ou si vous avez une super idée pour l'améliorer, n'hésitez pas à ouvrir une **Issue** (l'onglet en haut de la page) pour m'expliquer le problème. J'irai direct copier-coller ça à l'IA pour voir comment on peut réparer ça !
+---
 
-J'espère que Compass vous fera gagner autant de temps qu'à moi. Bon téléchargement ! 🚀
+**À propos de ce projet**
+L'intégralité de cette application (code, interface et documentation) a été conçue et développée de A à Z par Intelligence Artificielle.
